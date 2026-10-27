@@ -1,7 +1,7 @@
 # qr-heroicos-la-guinda
 
 Páginas de redirección para los QR de los heroicos 38x60 cm "La Guinda" (Q3 Infantil).
-Cada QR apunta a `/pagNN/` (la hoja del PDF), que redirige a https://www.falabella.com/falabella-cl/category/cat5620004/Moda-Infantil.
+Cada QR apunta a `/pagNN/` (la hoja del PDF), que redirige a https://www.falabella.com/falabella-cl.
 
 | Hoja | Marca | Prendas |
 |------|-------|---------|
